@@ -49,3 +49,7 @@ Configuration Files: Applications store settings in text files that can be modif
 Report Generation: Used to generate and update reports dynamically.
 
 Overall, this task provides a strong understanding of file handling concepts in Java. It is highly useful in software development where managing and processing data efficiently is essential.
+
+
+##OUTPUT
+<img width="1450" height="720" alt="Image" src="https://github.com/user-attachments/assets/6829352e-64a1-4368-ae72-4575da4505fd" />
